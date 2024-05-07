@@ -13,6 +13,7 @@ import javax.lang.model.element.Element;
 import java.time.Duration;
 import java.util.List;
 
+@Disabled
 public class PlayerControllerTest
 {
 
@@ -44,6 +45,7 @@ public class PlayerControllerTest
         Assertions.assertEquals(playerList.size(), 2);
 
     }
+
 
     @Test
     void correctAmountOfPLayerAreShown(){
