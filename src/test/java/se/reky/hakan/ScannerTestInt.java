@@ -1,4 +1,4 @@
-package se.reky.hakan.util;
+package se.reky.hakan;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

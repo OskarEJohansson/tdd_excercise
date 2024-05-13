@@ -16,7 +16,6 @@ import java.util.List;
 @Disabled
 public class PlayerControllerTest
 {
-
     private ChromeDriver driver;
 
     @BeforeAll
